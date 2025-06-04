@@ -19,3 +19,12 @@ p {
     font-weight: 500; 
     color: #15803D
 }
+
+.box {
+    margin: auto;
+    width: auto;
+    background-color: rgb(217, 218, 219);
+    border: 6px dotted black;
+    border-radius: 20px;
+    margin-bottom: 200px;
+}
