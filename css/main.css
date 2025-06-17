@@ -28,3 +28,42 @@ p {
     border-radius: 20px;
     margin-bottom: 200px;
 }
+
+.box1 {
+    width: 800px;
+    float: left;
+   
+}
+
+.profile_img {
+    width: 200px;
+    margin-left: 30px;
+    text-align: right;
+    display: flex;
+}
+
+.img2 {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    margin-top: 23px;
+}
+
+.name {
+    text-align: left;
+    font-size: 25px;
+}
+
+.box2 {
+    
+    float: left;
+
+}
+
+.img3 {
+    width: 260px;
+    height: 260px;
+    margin-left: 50px;
+    margin-top: 35px;
+    border-radius: 12px;
+}
